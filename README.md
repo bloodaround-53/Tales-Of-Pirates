@@ -213,4 +213,4 @@ Tales of Pirates is available as a complete free version with all features and u
 Ready to chart your course and become the ultimate pirate? Download Tales of Pirates now and set sail on your adventure!
 
 ---
-**Last updated:** 2026-09-14 15:35:50 UTC
+**Last updated:** 2026-09-14 20:07:39 UTC
